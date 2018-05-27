@@ -1,13 +1,11 @@
 # Материалы к докладу "Middlewares are awesome"
 
-* [Ссылка на презентацию](#Ссылка-на-презентацию)
+Презентация:
+https://docs.google.com/presentation/d/1qFTB--HrXCU0_nVQ_T4ZlB9CsiXpXQsASc14pctoggA/edit?usp=sharing
+
 * [Набор полезных ссылок](#Набор-полезных-ссылок)
 * [Signal middleware](#signal-middleware)
-* [Демо и код работы различных middleware](#демо-и-код-работы-различных-middleware)
-
-## Ссылка на презентацию
-
-https://docs.google.com/presentation/d/1qFTB--HrXCU0_nVQ_T4ZlB9CsiXpXQsASc14pctoggA/edit?usp=sharing
+* [Демо и код работы различных middleware](#Демо-и-код-работы-различных-middleware)
 
 ## Набор полезных ссылок
 
