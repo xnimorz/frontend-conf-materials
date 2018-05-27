@@ -11,7 +11,7 @@ https://docs.google.com/presentation/d/1qFTB--HrXCU0_nVQ_T4ZlB9CsiXpXQsASc14pcto
 
 ## Набор полезных ссылок
 
-1.  О начале развития проекта талантикс можно почитать в статье на хабре: https://habr.com/company/hh/blog/310524/ В этой статье разбирается структура проекта, изначальная структура view, action creatores и reducers. Кроме того, разбирается подход с reducers — подмена редьюсеров при переключении модуля.
+1.  О начале развития проекта талантикс можно почитать в статье на хабре: https://habr.com/company/hh/blog/310524/ В этой статье разбирается структура проекта, изначальная структура view, action creators и reducers. Кроме того, разбирается подход с reducers — подмена редьюсеров при переключении модуля.
 
 2.  Middleware, в которых можно реализовать асинхронные походы:
     — созданная для выноса бизнес-логики в отдельный уровень — signal-middleware https://github.com/xnimorz/signal-middleware Демо работы signal-middleware: https://xnimorz.github.io/signal-middleware/

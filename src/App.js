@@ -28,14 +28,28 @@ class App extends Component {
         <Header>
           <Line />
           <Content>
-            <Head>Signal Middleware</Head>
-            Get documentation, fork and star me on{" "}
-            <a
-              target="_blank"
-              href="https://github.com/xnimorz/signal-middleware"
-            >
-              github
-            </a>
+            <Head>Frontend Conf materials</Head>
+            <p>
+              Signal-Middleware: документация и подробная информация есть в
+              отдельном проекте на{" "}
+              <a
+                target="_blank"
+                href="https://github.com/xnimorz/signal-middleware"
+              >
+                github
+              </a>
+            </p>
+            <p>
+              Кэширующий middleware — попробуйте ввести комментарий и обновить
+              страницу. Middleware кэширует данные в localstorage. Код доступен
+              на{" "}
+              <a
+                target="_blank"
+                href="https://github.com/xnimorz/frontend-conf-materials/blob/master/src/middleware/localstorage.js"
+              >
+                github
+              </a>
+            </p>
             <Gap />
           </Content>
         </Header>
